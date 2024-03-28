@@ -1,11 +1,9 @@
 <img alt="micro logo" src="./assets/micro-logo.png" width="300px"/>
 
 ![Test Workflow](https://github.com/cmdada/adamicro/actions/workflows/test.yaml/badge.svg)
-[![Go Report Card](https://goreportcard.com/badge/github.com/cmdada/adamicro)](https://goreportcard.com/report/github.com/cmdada/adamicro)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cmdada/adamicro/blob/master/LICENSE)
 
-**micro** is a terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities
+**adaMicro** is a fork of the command line editor micro that aims to be aesthetically pleasing , efficient and intuitive, while also taking advantage of the capabilities
 of modern terminals. It comes as a single, batteries-included, static binary with no dependencies; you can download and use it right now!
 
-As its name indicates, micro aims to be somewhat of a successor to the nano editor by being easy to install and use.
-It strives to be enjoyable as a full-time editor for people who prefer to work in a terminal, or those who regularly edit files over SSH.
+**adaMicro** includes transparency-friendly theming, a file tree, and nano compatible keybinds by default
