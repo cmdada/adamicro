@@ -300,7 +300,7 @@ returned by the functions have many methods. The Lua plugin may access any
 public methods of an object returned by any of the functions above.
 Unfortunately it is not possible to list all the available functions on this
 page. Please go to the internal documentation at
-https://pkg.go.dev/github.com/zyedidia/micro/v2/internal to see the full list
+https://pkg.go.dev/github.com/cmdada/adamicro/v2/internal to see the full list
 of available methods. Note that only methods of types that are available to
 plugins via the functions above can be called from a plugin. For an even more
 detailed reference see the source code on Github.

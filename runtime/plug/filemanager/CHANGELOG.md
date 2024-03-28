@@ -53,7 +53,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 
 ### Fixed
 
-Ref https://github.com/zyedidia/micro/issues/992 for both of these fixes.
+Ref https://github.com/cmdada/adamicro/issues/992 for both of these fixes.
 
 - The syntax parser not loading correctly (mostly block comments) on opened files. **Requires Micro >= v1.4.0**
 - An errant tab being inserted into the newly opened file.

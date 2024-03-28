@@ -30,7 +30,7 @@ If the directory is expanded, there will be a `+` to the left of it. If it is co
 
 The keybindings below are the equivalent to Micro's defaults, and not actually set by the plugin. If you've changed any of those keybindings, then that key is used instead.
 
-If you want to [keybind](https://github.com/zyedidia/micro/blob/master/runtime/help/keybindings.md#rebinding-keys) any of the operations/commands, bind to the labeled API in the table below.
+If you want to [keybind](https://github.com/cmdada/adamicro/blob/master/runtime/help/keybindings.md#rebinding-keys) any of the operations/commands, bind to the labeled API in the table below.
 
 | Command  | Keybinding(s)              | What it does                                                                                | API for `bindings.json`               |
 | :------- | :------------------------- | :------------------------------------------------------------------------------------------ | :------------------------------------ |

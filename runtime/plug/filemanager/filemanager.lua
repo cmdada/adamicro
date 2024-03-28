@@ -1130,7 +1130,7 @@ function preCursorRight(view)
 end
 
 -- Workaround for tab getting inserted into opened files
--- Ref https://github.com/zyedidia/micro/issues/992
+-- Ref https://github.com/cmdada/adamicro/issues/992
 local tab_pressed = false
 
 -- Tab
@@ -1146,7 +1146,7 @@ function preIndentSelection(view)
 end
 
 -- Workaround for tab getting inserted into opened files
--- Ref https://github.com/zyedidia/micro/issues/992
+-- Ref https://github.com/cmdada/adamicro/issues/992
 function preInsertTab(view)
 	if tab_pressed then
 		tab_pressed = false

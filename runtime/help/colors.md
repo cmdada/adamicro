@@ -101,7 +101,7 @@ and set this variable yourself.
 
 Micro's colorschemes are also extremely simple to create. The default ones can
 be found
-[here](https://github.com/zyedidia/micro/tree/master/runtime/colorschemes).
+[here](https://github.com/cmdada/adamicro/tree/master/runtime/colorschemes).
 
 Custom colorschemes should be placed in the `~/.config/micro/colorschemes`
 directory.

@@ -35,12 +35,12 @@
 	<screenshots>
 		<screenshot type="default">
 			<caption>Micro Text Editor editing its source code</caption>
-			<image type="source">https://raw.githubusercontent.com/zyedidia/micro/master/assets/micro-solarized.png</image>
+			<image type="source">https://raw.githubusercontent.com/cmdada/adamicro/master/assets/micro-solarized.png</image>
 		</screenshot>
 	</screenshots>
 	<content_rating type="oars-1.1" />
 	<url type="homepage">https://micro-editor.github.io</url>
-	<url type="bugtracker">https://github.com/zyedidia/micro/issues</url>
+	<url type="bugtracker">https://github.com/cmdada/adamicro/issues</url>
 	<url type="faq">https://micro-editor.github.io/about.html</url>
 	<url type="help">https://micro-editor.github.io/about.html</url>
 	<url type="contact">https://github.com/zyedidia</url>
