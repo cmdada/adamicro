@@ -27,7 +27,7 @@ build-tags: fetch-tags generate
 build-all: build
 
 install: generate
-	go install -ldflags "-s -w $(GOVARS) $(ADDITIONAL_GO_LINKER_FLAGS)" ./cmd/micro
+	go install -ldflags "-s -w $(GOVARS) $(ADDITIONAL_GO_LINKER_FLAGS)" ./cmd/adamicro
 
 install-all: install
 
