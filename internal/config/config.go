@@ -28,7 +28,7 @@ func InitConfigDir(flagConfigDir string) error {
 			xdgHome = filepath.Join(home, ".config")
 		}
 
-		microHome = filepath.Join(xdgHome, "micro")
+		microHome = filepath.Join(xdgHome, "adamicro")
 	}
 	ConfigDir = microHome
 
