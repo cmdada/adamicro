@@ -67,6 +67,7 @@
                 "dukelight-tc",
                 "dukeubuntu-tc",
                 "geany",
+                "good",
                 "gotham",
                 "gruvbox",
                 "gruvbox-tc",
@@ -82,7 +83,7 @@
                 "twilight",
                 "zenburn"
             ],
-            "default": "default"
+            "default": "good"
         },
         "cursorline": {
             "description": "Whether to highlight a line with a cursor with a different color\nhttps://github.com/cmdada/adamicro/blob/master/runtime/help/options.md#options",
