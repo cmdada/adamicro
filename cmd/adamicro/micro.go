@@ -19,14 +19,14 @@ import (
 	"github.com/go-errors/errors"
 	isatty "github.com/mattn/go-isatty"
 	lua "github.com/yuin/gopher-lua"
-	"github.com/zyedidia/micro/v2/internal/action"
-	"github.com/zyedidia/micro/v2/internal/buffer"
-	"github.com/zyedidia/micro/v2/internal/clipboard"
-	"github.com/zyedidia/micro/v2/internal/config"
-	ulua "github.com/zyedidia/micro/v2/internal/lua"
-	"github.com/zyedidia/micro/v2/internal/screen"
-	"github.com/zyedidia/micro/v2/internal/shell"
-	"github.com/zyedidia/micro/v2/internal/util"
+	"github.com/cmdada/adamicro/v2/internal/action"
+	"github.com/cmdada/adamicro/v2/internal/buffer"
+	"github.com/cmdada/adamicro/v2/internal/clipboard"
+	"github.com/cmdada/adamicro/v2/internal/config"
+	ulua "github.com/cmdada/adamicro/v2/internal/lua"
+	"github.com/cmdada/adamicro/v2/internal/screen"
+	"github.com/cmdada/adamicro/v2/internal/shell"
+	"github.com/cmdada/adamicro/v2/internal/util"
 	"github.com/zyedidia/tcell/v2"
 )
 
@@ -297,7 +297,7 @@ func main() {
 			if e, ok := err.(*lua.ApiError); ok {
 				fmt.Println("Lua API error:", e)
 			} else {
-				fmt.Println("Micro encountered an error:", errors.Wrap(err, 2).ErrorStack(), "\nIf you can reproduce this error, please report it at https://github.com/zyedidia/micro/issues")
+				fmt.Println("Micro encountered an error:", errors.Wrap(err, 2).ErrorStack(), "\nIf you can reproduce this error, please report it at https://github.com/cmdada/adamicro/issues")
 			}
 			// backup all open buffers
 			for _, b := range buffer.OpenBuffers {
