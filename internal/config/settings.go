@@ -285,7 +285,6 @@ var defaultCommonSettings = map[string]interface{}{
 	"eofnewline":     true,
 	"fastdirty":      false,
 	"fileformat":     "unix",
-	"filemanager-openonstart": true,
 	"filetype":       "unknown",
 	"hlsearch":       false,
 	"incsearch":      true,
