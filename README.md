@@ -1,8 +1,7 @@
 <img alt="micro logo" src="./assets/micro-logo-drop.svg" width="500px"/>
 
 ![Test Workflow](https://github.com/cmdada/adamicro/actions/workflows/test.yaml/badge.svg)
-[![Go Report Card](https://goreportcard.com/badge/github.com/zyedidia/micro)](https://goreportcard.com/report/github.com/zyedidia/micro)
-[![Release](https://img.shields.io/github/release/zyedidia/micro.svg?label=Release)](https://github.com/cmdada/adamicro/releases)
+[![Go Report Card](https://goreportcard.com/badge/github.com/cmdada/adamicro)](https://goreportcard.com/report/github.com/cmdada/adamicro)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cmdada/adamicro/blob/master/LICENSE)
 
 **micro** is a terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities
