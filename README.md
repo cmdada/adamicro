@@ -1,4 +1,4 @@
-<img alt="micro logo" src="./assets/micro-logo-drop.svg" width="500px"/>
+<img alt="micro logo" src="./assets/micro-logo.png" width="300px"/>
 
 ![Test Workflow](https://github.com/cmdada/adamicro/actions/workflows/test.yaml/badge.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/cmdada/adamicro)](https://goreportcard.com/report/github.com/cmdada/adamicro)
