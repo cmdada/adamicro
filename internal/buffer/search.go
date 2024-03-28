@@ -3,7 +3,7 @@ package buffer
 import (
 	"regexp"
 
-	"github.com/zyedidia/micro/v2/internal/util"
+	"github.com/cmdada/adamicro/v2/internal/util"
 )
 
 func (b *Buffer) findDown(r *regexp.Regexp, start, end Loc) ([2]Loc, bool) {

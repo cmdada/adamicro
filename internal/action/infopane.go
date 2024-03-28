@@ -3,11 +3,11 @@ package action
 import (
 	"bytes"
 
-	"github.com/zyedidia/micro/v2/internal/buffer"
-	"github.com/zyedidia/micro/v2/internal/config"
-	"github.com/zyedidia/micro/v2/internal/display"
-	"github.com/zyedidia/micro/v2/internal/info"
-	"github.com/zyedidia/micro/v2/internal/util"
+	"github.com/cmdada/adamicro/v2/internal/buffer"
+	"github.com/cmdada/adamicro/v2/internal/config"
+	"github.com/cmdada/adamicro/v2/internal/display"
+	"github.com/cmdada/adamicro/v2/internal/info"
+	"github.com/cmdada/adamicro/v2/internal/util"
 	"github.com/zyedidia/tcell/v2"
 )
 

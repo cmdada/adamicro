@@ -12,8 +12,8 @@ import (
 	"unicode"
 
 	"github.com/zyedidia/json5"
-	"github.com/zyedidia/micro/v2/internal/config"
-	"github.com/zyedidia/micro/v2/internal/screen"
+	"github.com/cmdada/adamicro/v2/internal/config"
+	"github.com/cmdada/adamicro/v2/internal/screen"
 	"github.com/zyedidia/tcell/v2"
 )
 

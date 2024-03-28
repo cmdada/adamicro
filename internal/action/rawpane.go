@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/zyedidia/micro/v2/internal/buffer"
-	"github.com/zyedidia/micro/v2/internal/display"
+	"github.com/cmdada/adamicro/v2/internal/buffer"
+	"github.com/cmdada/adamicro/v2/internal/display"
 	"github.com/zyedidia/tcell/v2"
 )
 

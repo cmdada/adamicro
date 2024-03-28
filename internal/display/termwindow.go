@@ -1,11 +1,11 @@
 package display
 
 import (
-	"github.com/zyedidia/micro/v2/internal/buffer"
-	"github.com/zyedidia/micro/v2/internal/config"
-	"github.com/zyedidia/micro/v2/internal/screen"
-	"github.com/zyedidia/micro/v2/internal/shell"
-	"github.com/zyedidia/micro/v2/internal/util"
+	"github.com/cmdada/adamicro/v2/internal/buffer"
+	"github.com/cmdada/adamicro/v2/internal/config"
+	"github.com/cmdada/adamicro/v2/internal/screen"
+	"github.com/cmdada/adamicro/v2/internal/shell"
+	"github.com/cmdada/adamicro/v2/internal/util"
 	"github.com/zyedidia/tcell/v2"
 	"github.com/zyedidia/terminal"
 )

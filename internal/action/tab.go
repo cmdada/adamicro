@@ -3,12 +3,12 @@ package action
 import (
 	luar "layeh.com/gopher-luar"
 
-	"github.com/zyedidia/micro/v2/internal/buffer"
-	"github.com/zyedidia/micro/v2/internal/config"
-	"github.com/zyedidia/micro/v2/internal/display"
-	ulua "github.com/zyedidia/micro/v2/internal/lua"
-	"github.com/zyedidia/micro/v2/internal/screen"
-	"github.com/zyedidia/micro/v2/internal/views"
+	"github.com/cmdada/adamicro/v2/internal/buffer"
+	"github.com/cmdada/adamicro/v2/internal/config"
+	"github.com/cmdada/adamicro/v2/internal/display"
+	ulua "github.com/cmdada/adamicro/v2/internal/lua"
+	"github.com/cmdada/adamicro/v2/internal/screen"
+	"github.com/cmdada/adamicro/v2/internal/views"
 	"github.com/zyedidia/tcell/v2"
 )
 

@@ -7,9 +7,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	lua "github.com/yuin/gopher-lua"
-	"github.com/zyedidia/micro/v2/internal/config"
-	ulua "github.com/zyedidia/micro/v2/internal/lua"
-	"github.com/zyedidia/micro/v2/internal/util"
+	"github.com/cmdada/adamicro/v2/internal/config"
+	ulua "github.com/cmdada/adamicro/v2/internal/lua"
+	"github.com/cmdada/adamicro/v2/internal/util"
 )
 
 type operation struct {

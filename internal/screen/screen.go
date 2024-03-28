@@ -6,8 +6,8 @@ import (
 	"os"
 	"sync"
 
-	"github.com/zyedidia/micro/v2/internal/config"
-	"github.com/zyedidia/micro/v2/internal/util"
+	"github.com/cmdada/adamicro/v2/internal/config"
+	"github.com/cmdada/adamicro/v2/internal/util"
 	"github.com/zyedidia/tcell/v2"
 )
 

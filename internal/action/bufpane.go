@@ -7,13 +7,13 @@ import (
 	luar "layeh.com/gopher-luar"
 
 	lua "github.com/yuin/gopher-lua"
-	"github.com/zyedidia/micro/v2/internal/buffer"
-	"github.com/zyedidia/micro/v2/internal/clipboard"
-	"github.com/zyedidia/micro/v2/internal/config"
-	"github.com/zyedidia/micro/v2/internal/display"
-	ulua "github.com/zyedidia/micro/v2/internal/lua"
-	"github.com/zyedidia/micro/v2/internal/screen"
-	"github.com/zyedidia/micro/v2/internal/util"
+	"github.com/cmdada/adamicro/v2/internal/buffer"
+	"github.com/cmdada/adamicro/v2/internal/clipboard"
+	"github.com/cmdada/adamicro/v2/internal/config"
+	"github.com/cmdada/adamicro/v2/internal/display"
+	ulua "github.com/cmdada/adamicro/v2/internal/lua"
+	"github.com/cmdada/adamicro/v2/internal/screen"
+	"github.com/cmdada/adamicro/v2/internal/util"
 	"github.com/zyedidia/tcell/v2"
 )
 
